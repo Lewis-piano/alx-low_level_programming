@@ -6,6 +6,12 @@
  */
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+	int i;
+
+	for (i = 48; i < (48 + 10); i++)
+	{
+		putchar(i);
+	}
+	putchar('\n');
 	return (0);
 }
