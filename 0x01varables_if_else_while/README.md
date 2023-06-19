@@ -1,2 +1,1 @@
-How each file of the c file program works:)
-good luck!
+working with c programming language
