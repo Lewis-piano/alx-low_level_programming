@@ -1,2 +1,0 @@
-#!/bin/bash
-CFILE="3-main.c" && gcc $CFILE -Wall -Werror -Wextra -pedantic -std=gnu89 -o cisfun
