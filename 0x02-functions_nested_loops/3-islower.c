@@ -1,5 +1,5 @@
 #include "main.h"
-#include <cytype.h>
+#include <ctype.h>
 
 /**
  * _islower - Entry point
